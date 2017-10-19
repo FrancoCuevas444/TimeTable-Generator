@@ -1,0 +1,27 @@
+{
+  "subject1" : {
+            "name": "Math",
+            "module": "Teórico",
+
+            "0" : {
+                    "initialTime" : "10:00",
+                    "finalTime" : "12:00",
+                    "days" : [ "Miércoles", "Jueves" ]
+                  },
+            "1" : {
+                    "initialTime" : "18:00",
+                    "finalTime"  : "20:00",
+                    "days" : [ "Lunes", "Viernes" ]
+                   }
+  },
+  "subject2" : {
+            "name": "Programming",
+            "module": "Práctico",
+
+            "0" : {
+                    "initialTime" : "13:00",
+                    "finalTime" : "16:00",
+                    "days" : [ "Lunes", "Jueves" ]
+                  }
+  }
+}
