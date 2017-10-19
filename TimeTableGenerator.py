@@ -4,13 +4,6 @@ from SubjectsPermutations import *
 from TimeModule import TimeRange
 import sys
 
-# TODO:
-# - Implement module for subjects
-# - Implement blank cells style
-# - Implement table borders style
-# - Implement days and time style
-# - Implement modules styles
-
 VERSION = 0.1
 
 # Main entry of the program
