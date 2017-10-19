@@ -13,7 +13,7 @@ The parameters ```initalTime``` and ```finalTime``` are a way of choosing only t
 
 # JSON File
 For this program to work you need to create a folder called ```Resources``` and include inside of it a JSON file. This file will have all subjects with all the posible time intervals.
-The format to use is the one in "Resorces/jsonTemplate.json".
+The format to use is the one in ```Resorces/jsonTemplate.json```.
 Where ```module``` can be ```{"Teórico, "Práctico", "Teo-Pra", "Consulta"}```, both ```initialTime``` and ```finishTime``` are given by a 24 hour representation and ```days``` can be ```{"Lunes", "Martes", "Miércoles", "Jueves", "Viernes"}```.
 
 # Dependencies
